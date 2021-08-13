@@ -895,6 +895,7 @@ footer {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: var(--accent-bg-color);
+  margin: 0;
 }
 .logo-footer {
   margin-bottom: 20px;
@@ -904,6 +905,12 @@ footer {
   padding: 0;
   margin: 0;
   
+ 
+  
+}
+.footer-colunm1 {
+  width: 231px;
+  height: ;
 }
 .social-footer {
   margin: 0;
@@ -951,11 +958,13 @@ color: #FFFFFF;
   
   display: flex;
   flex-direction: column;
+  margin: 0;
   padding: 0;
   width: 570px;
   height: 86px;
   
   margin-left: 93px;
+  margin-right: ;
   margin-top: 12px;
   padding-top: 12px;
   
@@ -977,7 +986,7 @@ color: #FFFFFF;
   display: flex;
   flex-direction: row;
   margin: 0;
-margin-right: 12px;
+
   
 }
 .sign-input> input {
